@@ -191,15 +191,18 @@ text-align: center;}
   display: block;
   position: static;
 
+
 }
 .gradient {
-  visibility: hidden;
+  left: 0;
+  width: 100%;
 }
 .right {
   width: 100%;
   display: block;
   position: static;
   height: 900px;
+  overflow: hidden;
 
 }
 footer {
@@ -233,6 +236,7 @@ height: 30vw;
     #gradient-2 p {
         font-size: 3vw;}
 .button {
-  margin-bottom: 30%;
+  margin-bottom: 45%;
 }
+
 }
