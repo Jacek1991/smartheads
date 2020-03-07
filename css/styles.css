@@ -202,8 +202,8 @@ footer {
     position: static;
   }
 
-  .first {
-    margin-top: 1%;
+  h1 {
+    margin-top: 0;
   }
 
   .freshmail {
@@ -223,7 +223,7 @@ footer {
     width: 100%;
     display: block;
     position: static;
-    height: 900px;
+    height: 100vh;
     overflow: hidden;
   }
   #gradient-1 {
